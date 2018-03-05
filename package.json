@@ -1,0 +1,28 @@
+{
+  "name": "mypluralize",
+  "version": "1.0.0",
+  "description": "sample test",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niteesh91/mypluralize.git"
+  },
+  "keywords": [],
+  "author": "ag_dubs <wombat@npmjs.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niteesh91/mypluralize/issues"
+  },
+  "homepage": "https://github.com/niteesh91/mypluralize#readme",
+  "devDependencies": {
+    "@types/pluralize": "0.0.28",
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+	"@types/pluralize": "0.0.28",
+    "pluralize": "^7.0.0"
+  }
+}
